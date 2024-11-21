@@ -1,0 +1,5 @@
+{
+    "connection_string": "sua_string_de_conexao_mongodb",
+    "database": "nome_do_banco",
+    "collection": "nome_da_colecao"
+}

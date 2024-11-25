@@ -1,4 +1,0 @@
-{
-    "connection_string": "mongodb+srv://elimottacardoso:VpLcHPrmkMffxaNq@cluster0.pflgc.mongodb.net?retryWrites=true&w=majority&appName=Cluster0",
-    "database": "car_sales_db"
-}

@@ -1,4 +1,0 @@
-{
-    "sas_token": "sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2024-12-22T07:29:55Z&st=2024-11-21T23:29:55Z&spr=https&sig=4A5GoWFGBZ82uWT3WNjFzaloU8%2Fi1%2FMio%2BZYYWcLvzY%3D",
-    "account_url": "https://<nome_da_sua_conta>.blob.core.windows.net/{container_name}"
-}

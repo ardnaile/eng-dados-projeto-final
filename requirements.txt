@@ -1,4 +1,16 @@
-pymongo==4.0.1
-pyspark==3.5.0
+# Spark and related dependencies
+pyspark==3.4.1
+findspark==2.0.1
+
+# Hadoop Azure connector
+hadoop-azure==3.3.5
+
+# Azure Storage SDK
+azure-storage-blob==12.16.0
+azure-core==1.28.0
+
+# MongoDB connector with SRV support
+pymongo[srv]==4.5.0
+
+# Delta Lake
 delta-spark==2.4.0
-unittest2==1.1.0

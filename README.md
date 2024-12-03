@@ -73,4 +73,5 @@ Este projeto está sob a licença **MIT** - veja o arquivo [LICENSE](https://git
 ## Referências
 
 * [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://www.youtube.com/watch?v=Q-YA_dA8C20)
+* [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture)
 
